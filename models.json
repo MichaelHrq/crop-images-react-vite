@@ -1,0 +1,16 @@
+{
+  "feed": {
+    "1": {
+      "width": 1080,
+      "height": 1080,
+      "overlayPath": "/feed.png"
+    }
+  },
+  "story": {
+    "1": {
+      "width": 1080,
+      "height": 1920,
+      "overlayPath": "/story.png"
+    }
+  }
+}
